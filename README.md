@@ -20,3 +20,4 @@ Goal - I want contributors to help me list popular gift that you're glad to rece
 For example, I'm glad to receive Line sticker at my birthday.
 
 # List of gift
+1. Line sticker
