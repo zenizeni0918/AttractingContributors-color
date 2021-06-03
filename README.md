@@ -23,3 +23,4 @@ For example, I'm glad to receive Line sticker at my birthday.
 # List of gift
 1. Line sticker
 2. sweets
+3. A bottle of an alcoholic beverage that the receiver really likes
