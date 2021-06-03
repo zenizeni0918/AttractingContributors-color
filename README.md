@@ -16,7 +16,8 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project (gift-collection)
-Goal - I want contributors to help me list popular gift that you're glad to receive.
+Goal - I want contributors to help me list popular gifts.
+Gifts are things that you're glad to receive or want to send when it's some anniversary, such as birthday, successful day of some project, mother's/father's day, and etc....
 For example, I'm glad to receive Line sticker at my birthday.
 
 # List of gift
