@@ -23,7 +23,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Book(Japanese or English)
 1. Guri and Gura
 2. ONE PIECE
-3. 
+3. Tegami
 4. 
 5. 
 6. 
