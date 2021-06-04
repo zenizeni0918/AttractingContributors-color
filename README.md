@@ -28,7 +28,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Solanin
 6. Hyoka (Written by Honobu Yonezawa)  
 7. SPY✖️
-8. 
+8. Bam and Kero 
 9. 
 10.  
 -----------------
