@@ -23,8 +23,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 # List of Book(Japanese or English)
 1. Guri and Gura
 2. ONE PIECE
-3. Hyoka (Written by Honobu Yonezawa)
-4. 
+3. Solanin
+4. Hyoka (Written by Honobu Yonezawa)
 5. 
 6. 
 7. 
