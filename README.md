@@ -27,7 +27,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 4. Tegami
 5. Solanin
 6. Hyoka (Written by Honobu Yonezawa)  
-7. 
+7. Bam and Kero
 8. 
 9. 
 10. 
