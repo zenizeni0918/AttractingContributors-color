@@ -28,7 +28,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 5. Solanin
 6. Hyoka (Written by Honobu Yonezawa)  
 7. Beneath the Wheel
-8. 
-9. 
-10. 
+8. SPY✖️Family
+9. Bam and Kero 
+10.  
 -----------------
