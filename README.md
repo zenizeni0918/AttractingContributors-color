@@ -25,3 +25,4 @@ For example, I'm glad to receive Line sticker at my birthday.
 2. sweets
 3. A bottle of an alcoholic beverage that the receiver really likes
 4. Video games
+5. Comic Book
