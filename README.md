@@ -24,8 +24,8 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 1. Guri and Gura
 2. ONE PIECE
 3. Tegami
-4. 
-5. 
+4. Solanin
+5. Hyoka (Written by Honobu Yonezawa) 
 6. 
 7. 
 8. 
