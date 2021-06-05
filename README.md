@@ -1,4 +1,4 @@
-# Attracting Contributors
+# Attracting Contributors-Game
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
 # Rules
@@ -15,9 +15,17 @@ To complete the assignment, please do the following:
 3. Make 10 Pull Request contributions to other projects
 4. Merge 10 Pull Requests into your forked Project.
 
-# Example. 
-https://github.com/raux/AttractingContributors-Anime (Anime topic)
+# My project
+I want you to write somthing game name. 
 
-https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
-
-# List of Hobby
+# List of Game
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
