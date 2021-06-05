@@ -31,3 +31,4 @@ For example, I'm glad to receive Line sticker at my birthday.
 8. wallets
 9. Cash
 10. motorcycle
+11. flower
