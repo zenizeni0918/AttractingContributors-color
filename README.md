@@ -30,3 +30,4 @@ For example, I'm glad to receive Line sticker at my birthday.
 7. Amazon gift card
 8. wallets
 9. Cash
+10. motorcycle
