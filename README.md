@@ -1,6 +1,12 @@
 # What is OpenWorldGame
 A genre that has increased due to the evolution of game machines. In contrast to the open world game, the game called the box garden type is divided into sections with stages, and loading time is required to move between sections. In the open world game, the play stage becomes one big map, so there is no need to load when moving between areas, and the player can move around freely.
-
+<div>
+<img 
+     alt="OpenWorldExam"
+     src="https://github.com/FranceRat/AttractingContributors-OpenWorldGame/blob/main/image/OpenworldGame.png"
+     width="200px" />
+  <p>オープンワールドゲームの一例(witcher3)</p>
+</div>
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
