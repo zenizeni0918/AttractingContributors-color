@@ -27,3 +27,4 @@ For example, I'm glad to receive Line sticker at my birthday.
 4. Video games
 5. Book
 6. Comic Book
+7. Amazon gift card
