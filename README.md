@@ -10,7 +10,7 @@ A genre that has increased due to the evolution of game machines. In contrast to
 <div>
 <img 
      alt="HakoniwaWorldExam"
-     src="https://github.com/FranceRat/AttractingContributors-OpenWorldGame/blob/main/image/箱庭.png"
+     src="https://github.com/FranceRat/AttractingContributors-OpenWorldGame/blob/main/image/箱庭.jpg"
      width="200px" />
   <p>箱庭型ゲームの一例(Dishonored)</p>
 </div>
@@ -41,7 +41,7 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 to know more about games in the open world g and play
 
 # List of Hobby
-1.witcher3
-2.fall out series
-3.MGS5
-4.DEATH STRANDING
+*1.witcher3
+*2.fall out series
+*3.MGS5
+*4.DEATH STRANDING
