@@ -42,7 +42,7 @@ to know more about games in the open world g and play
 
 # List of Hobby
 
-* 1.witcher3
-* 2.fall out series
-* 3.MGS5
-* 4.DEATH STRANDING
+* witcher3
+* fallout series
+* MGS5
+* DEATH STRANDING
