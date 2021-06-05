@@ -25,4 +25,6 @@ For example, I'm glad to receive Line sticker at my birthday.
 2. sweets
 3. A bottle of an alcoholic beverage that the receiver really likes
 4. Video games
-5. Amazon gift card
+5. Book
+6. Comic Book
+7. Amazon gift card
