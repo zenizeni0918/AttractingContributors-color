@@ -7,6 +7,14 @@ A genre that has increased due to the evolution of game machines. In contrast to
      width="200px" />
   <p>オープンワールドゲームの一例(witcher3)</p>
 </div>
+<div>
+<img 
+     alt="HakoniwaWorldExam"
+     src="https://github.com/FranceRat/AttractingContributors-OpenWorldGame/blob/main/image/箱庭.png"
+     width="200px" />
+  <p>箱庭型ゲームの一例(Dishonored)</p>
+</div>
+
 # Attracting Contributors
 As part of the Software Engineering Class, we would like to simulate how Open Source Projects start and try to attract potential contributions.
 
