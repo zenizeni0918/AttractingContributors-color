@@ -21,4 +21,5 @@ https://github.com/raux/AttractingContributors-Anime (Anime topic)
 https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # Please tell me your favorite mahjoung yaku
+1. AllSimples
 1. 小三元
