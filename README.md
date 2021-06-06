@@ -17,7 +17,7 @@ To complete the assignment, please do the following:
 
 # My Project(Yuru-chara or Mascot)
 Mascots are often called Yuru-chara in Japan.  
-There are various kinds of them, including corporate ones and town ones.  
+There are various kinds of them, including corporate ones, town ones and so on.    
 Who is your favorite mascot?  
 Please write them down below :D
 
