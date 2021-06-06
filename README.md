@@ -22,3 +22,9 @@ Goal : I want contributors to help me list some singers.
 * REIS from DADARAY
 * 米津玄師
 * BUMP OF CHICKEN
+* YOASOBI
+* 優里
+* Fall Out Boy
+* sumika
+* yorushika
+
