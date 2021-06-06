@@ -21,5 +21,7 @@ Goal : I want contributors to help me list some singers.
 # List of Singer
 * REIS from DADARAY
 * 米津玄師
+* Fall Out Boy
 * sumika
 * YOASOBI
+
