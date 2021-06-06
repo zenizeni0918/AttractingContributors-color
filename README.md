@@ -16,9 +16,9 @@ To complete the assignment, please do the following:
 4. Merge 10 Pull Requests into your forked Project.
 
 # My Project(Yuru-chara or Mascot)
-Mascots are ofen called Yuru-chara in Japan.
-There are various kinds of them, including corporate ones and town ones.
-Who is your favorite mascot?
+Mascots are often called Yuru-chara in Japan.  
+There are various kinds of them, including corporate ones and town ones.  
+Who is your favorite mascot?  
 Please write them down below :D
 
 # List of Yuru-chara(Mascot)
