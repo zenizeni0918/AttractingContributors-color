@@ -24,9 +24,9 @@ Please write them down below :D
 # List of Yuru-chara(Mascot)
 1. Sento-kun (example)
 2. Minamo
-3. Miratan
-4.
-5.
+3. Yukimaru
+4. kumamon
+5. Miratan
 6.
 7.
 8.
