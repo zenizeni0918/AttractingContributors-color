@@ -23,6 +23,9 @@ https://github.com/NAIST-SE/AttractingContributors/discussions/4 (Discussion)
 
 # List of games
 
+1. Tetris
+
+
 goat simulator
 
 
